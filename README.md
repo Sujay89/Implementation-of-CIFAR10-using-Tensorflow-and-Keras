@@ -1,2 +1,2 @@
 # Implementation-of-CIFAR10-using-Tensorflow-and-Keras
-Deep Learning Project 
+This is a deep learning project in python. In this project, I have implemented the CIFAR10 dataset using Tensorflow and keras sequential API in Python. Also, here I have used Convolution Neural Network for training this model. Here we have first trained our model using the CIFAR10 dataset  and then tested our model to predict the labels based on the given set of images. I got an accuracy of 72.28% for this model.     
